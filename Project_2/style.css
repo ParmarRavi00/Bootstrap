@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background: url(Images/hero-bg.png), rgb(4, 28, 69);
+    background-size: cover;
+}
+
+header section .light_left input{
+    outline: none;
+}
+
+header section .light_left h1{
+    font-size: 47px;
+    font-weight: bold;
+}

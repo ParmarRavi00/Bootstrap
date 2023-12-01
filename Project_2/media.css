@@ -1,0 +1,11 @@
+@media (max-width:992px){
+
+ header{
+    display: none;
+    
+ }   
+/* header section .light_left h1{
+    font-size: 0px;
+} */
+
+}
